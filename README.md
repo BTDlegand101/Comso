@@ -1,9 +1,8 @@
-# Cosmo - BTDlegand101
+# Cosmo
+## Made by: BTDlegand101
 
-# Progress
-
-## Math
-* In Progress
-
-## Variables
-* Not Started
+Cosmo is a console machine that allows you to perform
+multiple actions such as computing simple math problems
+or saving values in registers. More features will be
+implemented, and I would love to get feedback and/or
+suggestions about what I could add next.
