@@ -1,4 +1,4 @@
-# Cosmoo - BTDlegand101
+# Cosmo - BTDlegand101
 
 # Progress
 
